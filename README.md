@@ -55,7 +55,7 @@ reminder_bot/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/tg-reminder-bot.git
+git clone https://github.com/Tihonov-Michael/tg-reminder-bot.git
 cd tg-reminder-bot
 ```
 
